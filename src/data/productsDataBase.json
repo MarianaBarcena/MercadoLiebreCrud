@@ -1,0 +1,218 @@
+[
+   {
+      "id": 1,
+      "name": "Cafetera Moulinex Dolce Gusto Edited",
+      "price": 100,
+      "discount": 50,
+      "category": "visited",
+      "description": "Cafetera Dolce Gusto Lumio. La cafetera Dolce Gusto Lumio es de variedad automática que ha llegado con un diseño radical al que nos tenía acostumbrados Dolce Gusto.En este post te contamos todo lo que necesitas saber sobre ella, desde sus características técnicas hasta la calidad de las cápsulas o price.",
+      "image": "img-cafetera-moulinex.jpg"
+   },
+   {
+      "id": 3,
+      "name": "Samsung Galaxy S10",
+      "price": 72999,
+      "discount": 25,
+      "category": "in-sale",
+      "description": "Experiencia visual excepcional. Mirá tus series y películas favoritas con la mejor definición.Tendrás colores brillantes y detalles precisos en todos tus contenidos.Disfrutá aún más del mejor entretenimiento gracias a su vasta pantalla y ángulos de visión amplios.",
+      "image": "img-samsung-galaxy-s10.jpg"
+   },
+   {
+      "id": 4,
+      "name": "Heladera no frost Whirlpool WRM45A",
+      "description": "Disfrutá de la frescura de tus alimentos y almacenalos de manera práctica y cómoda en tu heladera Whirlpool, la protagonista de tu cocina. Su sistema no frost evita la generación de escarcha y te permitirá conservar el sabor y las propiedades nutritivas de los productos.A su vez, su freezer cuenta con una capacidad de 86 litros, que facilitará la distribución y el orden de tus congelados para que no te preocupes por la falta de espacio.",
+      "price": 47900,
+      "discount": 10,
+      "image": "img-heladera-whirpool.jpg",
+      "category": "in-sale"
+   },
+   {
+      "id": 5,
+      "name": "Nikon Reflex D3500 - Kit",
+      "description": "Incluye la cámara D3500, el objetivo zoom AF-P DX NIKKOR 18-55mm y el superteleobjetivo zoom compacto AF-P DX NIKKOR 70-300mm. Ambos objetivos enfocan de forma rápida y silenciosa, lo que resulta ideal para grabar metraje de vídeo sin que se escuche apenas el ruido del accionamiento.",
+      "price": 53000,
+      "discount": 20,
+      "image": "img-camara-nikon.jpg",
+      "category": "in-sale"
+   },
+   {
+      "id": 6,
+      "name": "Aire Acondicionado 3200w Frio / Calor",
+      "description": "AIRE SPLIT 3200W TACA-3200WCHSA/KC FC TCL. Capacidad frio 3200 Watts. Capacidad calor 3300 Watts. Potencia Electrica(W)frio 996. Potencia Electrica(W)calor 1028. Eficiencia energética calor C. Eficiencia energética frio A. Frigorias 2750 UNIDAD INTERIOR. Peso Bruto 10kg. Peso Neto 7 kg",
+      "price": 20999,
+      "discount": 12,
+      "image": "img-aire-acondicionado.jpg",
+      "category": "in-sale"
+   },
+   {
+      "id": 7,
+      "name": "Notebook Lenovo I3 Intel 8gb Ram",
+      "description": "PROCESADOR / CHIPSET. CPU: Intel Core i3(8a generación) 8130U / 2.2 GHz. Velocidad turbo máxima: 3, 4 GHz. Numero de núcleos: Doble núcleo. Cache: 4 MB. Arquitectura de 64 bit: ss. MEMORIA CACHÉ. Tamaño instalada: 4 MB. ALMACENAMIENTO. Interfaz Serial ATA - 600",
+      "price": 36700,
+      "discount": 5,
+      "image": "img-laptop-lenovo.jpg",
+      "category": "in-sale"
+   },
+   {
+      "id": 8,
+      "name": "Apple iPhone 11 Pro Dual SIM 256 GB",
+      "description": "¡El nuevo smartphone que lo tiene todo! Con este lanzamiento, Apple ha superado todos sus récords. Su diseño se destaca por sus líneas finas y distinguidas a partir de una sola hoja de vidrio resistente, combinada con aluminio de excelente calidad.",
+      "price": 148000,
+      "discount": 2,
+      "image": "img-iphone-11.jpg",
+      "category": "in-sale"
+   },
+   {
+      "id": 10,
+      "name": "Mouse Inalámbrico Logitech M280",
+      "description": "Uso más cómodo para la mano derecha gracias a la forma contorneada con recubrimiento de goma blanda. Duración de las pilas hasta 18 meses, gracias al diseño para ahorrar energía.El M280 entra automáticamente en estado de suspensión cuando no se está usando.",
+      "price": 1300,
+      "discount": 10,
+      "image": "img-mouse-logitech.jpg",
+      "category": "visited"
+   },
+   {
+      "id": 11,
+      "name": "Parlante Inalámbrico Bose Soundtouch 10",
+      "description": "Parlante Inalámbrico Bose Soundtouch 10. SoundTouch®.La manera más sencilla de reproducir música en todo su hogar de forma inalámbrica. Características. » Marca: Bose. » Modelo: SoundTouch. » Color: Negro",
+      "price": 29990,
+      "discount": 12,
+      "image": "img-parlante-bose.jpg",
+      "category": "visited"
+   },
+   {
+      "id": 12,
+      "name": "Home Theatre Sony Bdv-e4100",
+      "description": "El sonido Surround de 5.1 canales y 1000 W proporciona un audio de verdadero impacto en los efectos especiales de películas y efectos de sonido de música y deportes. Con la tecnología Near Field Communication(NFC) podés disfrutar de Sonido One- Touch para reproducir música de forma instantánea",
+      "price": 32990,
+      "discount": 0,
+      "image": "img-home-theater-sony.jpg",
+      "category": "visited"
+   },
+   {
+      "id": 13,
+      "name": "Smart TV Samsung 4K 50",
+      "description": "Con el Smart TV Samsung UN50MU6100, viví una nueva experiencia visual con la resolución 4K, que te presentará imágenes con gran detalle y de alta calidad. Ahora todo lo que veas cobrará vida con brillo y colores más reales. Gracias a su tamaño de 50\", podrás transformar tu espacio en una sala de cine y transportarte a donde quieras.",
+      "price": 34990,
+      "discount": 0,
+      "image": "img-tv-samsung-smart.jpg",
+      "category": "visited"
+   },
+   {
+      "id": 14,
+      "name": "Sony S6700 Reproductor De Blu-ray ",
+      "description": "Disfruta de tus películas favoritas con hasta cuatro veces más detalles que Full HD, gracias a la conversión de señales 4K. Cuando se conecta a un televisor compatible,un procesador de video avanzado convierte el video estándar en una señal cercana a la resolución 4K (3840 x 2160). Con ocho millones de píxeles, obtendrás imágenes más nítidas y detalladas, y la mayor calidad de la image te permite sentarte más cerca de la pantalla para que te sientas como en el cine.",
+      "price": 10999,
+      "discount": 5,
+      "image": "img-sony-blueray.jpg",
+      "category": "visited"
+   },
+   {
+      "id": 15,
+      "name": "UNA BICI",
+      "description": "Bici especial para regalarle a la bendi en navidad",
+      "price": 45000,
+      "discount": 15,
+      "image": "1703882545229_products.webp",
+      "category": "visited"
+   },
+   {
+      "id": 16,
+      "name": "Sony Srs-xb12 Parlante Bluetooth Portátil",
+      "price": 4699,
+      "discount": 5,
+      "category": "in-sale",
+      "description": "Deja que la música dance cobre vida con EXTRA BASS™ Anima el ambiente con EXTRA BASS™1. Un radiador pasivo trabaja con el parlante monoaural para potenciar los tonos bajos y mejorar los graves, a pesar del tamaño compacto. ",
+      "image": "img-parlante-sony.jpg"
+   },
+   {
+      "id": "d20bcb0b-b0f8-4c98-bd4e-600e9dce2aaf",
+      "name": "Yerba rica para el mate en clase",
+      "price": 2800,
+      "discount": 5,
+      "category": "in-sale",
+      "description": "Esta yerba es rica , para tomar mate mientras ves la clase",
+      "image": "1703882672065_products.webp"
+   },
+   {
+      "id": "ac02158c-d107-40b7-ad32-c28ad2a4821c",
+      "name": "Macbook Pro 14 Apple M1 Pro Chip 10 Core Cpu 16 Core Gpu 1Tb Ssd Silver - APPLE",
+      "price": 8279800,
+      "discount": 50,
+      "category": "visited",
+      "description": "Velocidad y capacidad de respuesta\r\n\r\nEl procesador M1 Pro, acompañado de 16GB de memoria RAM y 1TB de SSD, podrás trabajar con facilidad aún en los proyectos más exigentes con un CPU de hasta 10 núcleos, un GPU de hasta 16 núcleos, un Neural Engine de 16 núcleos y motores multimedia dedicados de codificación y decodificación, compatibles con los códecs H.264, HEVC y ProRes.\r\nPantalla Liquid Retina. Perfección que salta a la vista\r\n\r\nLa MacBook Pro de 14 pulgadas posee la espectacular pantalla Liquid Retina XDR con resolución nativa de 3024 x 1964 píxeles, y 50Hz a 60Hz de actualización en el cuál las imágenes adquieren un gran nivel de detalle y realismo y los textos se ven increíblemente nítidos y definidos.\r\nDiseño\r\n\r\nEl Magic Keyboard retroiluminado te permite hacer todo más rápido y de forma más eficiente. Con Touch ID puedes iniciar sesión de forma segura mediante una autenticación fácil y rápida.",
+      "image": "1703882740065_products.jpg"
+   },
+   {
+      "id": "4ac6b0a0-25a6-4cfa-8fd3-7b92a1941bcc",
+      "name": "Mouse Gamer Xtrike Me Backlit Programable Dpi Pc Usb Cable - XTRIKE ME",
+      "price": 13371,
+      "discount": 23,
+      "category": "in-sale",
+      "description": "Mouse Gamer Xtrike Me Backlit Programable Dpi Cable Pc Usb Con 7 botones\r\n\r\n\r\nCuenta con un diseño de alto perfil con soporte total para la palma. Control mejorado para los tipos de agarre de palma y garra. Selección rápida de DPI de 6 pasos hasta 6400. Retroiluminación RGB con efecto de respiración.\r\n\r\n\r\nEspecificaciones técnicas:\r\n\r\n- Sensor: óptico\r\n\r\n- DPI: 800-1600-2400-3200-4800-6400\r\n\r\n- Botones: 7\r\n\r\n- Clasificación del interruptor: 3 millones de clics\r\n\r\n- Luz de fondo: RGB\r\n\r\n- Interfaz: USB 2.0\r\n\r\n- Longitud del cable: 1.7 m\r\n\r\n- Dimensiones: 129 x 67 x 40 mm.\r\n\r\n- Soporte de sistema operativo: Windows 7 o más reciente",
+      "image": "1703882835335_products.jpg"
+   },
+   {
+      "id": "ea01631b-d7c9-4897-86ed-fe07067960b2",
+      "name": "Impresora Multifuncion Deskjet 2375 El - HP",
+      "price": 745000,
+      "discount": 0,
+      "category": "visited",
+      "description": "Impresora multifuncional 3 en 1 Epson EcoTank L3250 con impresión 100% sin cartuchos\r\n\r\nLa Impresora multifuncional 3 en 1 Epson EcoTank L3250 ofrece a las familias, estudiantes y profesionales un costo de impresión ultra bajo, que te permite imprimir hasta 4.500 páginas en negro o 7.500 páginas a color con cada juego de botellas de repuesto. La EcoTank L3250 ofrece total confiabilidad gracias a la tecnología Heat-Free de Epson, además de una experiencia de recarga fácil, limpia y sin errores con la tecnología EcoFitTM. Diseñado para integrarse en su estilo de vida, está completamente conectado con WiFi, WiFi Direct® y capacidades de impresión móvil a través de la nueva e intuitiva aplicación Epson Smart Panel y cuenta con un diseño de tanque frontal súper compacto que ocupa poco espacio y permite verificar fácilmente los niveles de tinta. Con una garantía limitada y extendida hasta de 2 años, Epson te respalda totalmente para que pueda imprimir sin cartuchos y sin preocupaciones.\r\n\r\nEconómica: 100% Sin cartuchos, sin cartuchos ni cabezales que reemplazar\r\n\r\nConfiable: Mayor tranquilidad con la tecnología sin calor Epson Heat Free, que brinda una alta confiabilidad y un óptimo desempeño",
+      "image": "1703882901271_products.jpg"
+   },
+   {
+      "id": "b920a9f0-e443-4821-b3d1-e016f48b4090",
+      "name": "Access Point Tp-link Tl-wa850re Range Extender N300 - TP LINK",
+      "price": 74898,
+      "discount": 2,
+      "category": "in-sale",
+      "description": "Access Point Tp-link Tl-wa850re Range Extender N300 - TP LINK",
+      "image": "1703882943408_products.png"
+   },
+   {
+      "id": "fceaeb61-7c85-44e9-8c29-51bd1455ed19",
+      "name": "Placa De Red Usb Wireless Tp-link Archer T2u Ac600 Dual Band Nano - TP LINK",
+      "price": 33500,
+      "discount": 10,
+      "category": "in-sale",
+      "description": "CARACTERÍSTICAS DE HARDWARE\r\n\r\nInterfaz: USB 2.0\r\n\r\nDimensiones: 15*7.1*18.6mm\r\n\r\nTipo de Antena: Omni Direccional\r\n\r\nCARACTERÍSTICAS INALÁMBRICAS\\n\r\n\r\nEstándares Inalámbricos:\r\n\r\nIEEE 802.11ac\r\n\r\nIEEE 802.11a\r\n\r\nIEEE 802.11n",
+      "image": "1703883001673_products.jpg"
+   },
+   {
+      "id": "9b3861a4-c654-44e5-9c86-887b55ec8eaf",
+      "name": "Joystick Gamepad Inalambrico Noga 4400X Ps4 Sensor Movimient - NOGA",
+      "price": 104000,
+      "discount": 5,
+      "category": "in-sale",
+      "description": "Joystick Gamepad Inalambrico Noga 4400x Ps4 sensor Movimient\r\n\r\nModelo: NG-4400X (negro)\r\n\r\n- Gamepad Inalámbrico compatible con P4.\r\n\r\n- Tecnología Inalámbrica con alcance de hasta 10 metros.\r\n\r\n- Presenta botones con retroiluminación LED.\r\n\r\n- Posee vibración doble con distintos niveles de potencia.\r\n\r\n- Disponible en 2 colores.\r\n\r\n- Comodidad y Precisión en tus juegos.\r\n\r\nCARACTERÍSTICAS:\r\n\r\n- 12 Botones de Acción programables\r\n\r\n- 1 Pad de Dirección\r\n\r\n- Botones Home/Share/Options\r\n\r\n- 4 Botones de Acción con LED\r\n\r\n- 2 Sticks de dirección\r\n\r\n- LED PAD con función de click\r\n\r\n- \"Strong Buttons\": botones de acción y de menú más resistentes\r\n\r\n- \"Six Axes\": sensor de movimiento con 3 ejes acelerómetros y 3 ejes giroscópicos\r\n\r\n- Posee vibración doble con distintos niveles de potencia\r\n\r\n- Tecnología Inalámbrica BT 4.2 con alcance de hasta 10 metros\r\n\r\n- Funciona con Batería de Litio de 600mA",
+      "image": "1703883039815_products.jpg"
+   },
+   {
+      "id": "168fc315-b391-4f9c-860e-996791ef2aac",
+      "name": "Pil Est Red 3.05X0.76 4791L P2 - FUNSICLE",
+      "price": 150487,
+      "discount": 18,
+      "category": "visited",
+      "description": "Pile para el verano ,e l que la tenga que invite",
+      "image": "1703883089763_products.jpg"
+   },
+   {
+      "id": "51bb74ab-a6bd-4bcd-a9b6-893d4b3c8d3c",
+      "name": "Motosierra A Explosión Daewoo 52Cc Espada 51 Cm 2 Tiempos - DAEWOO",
+      "price": 240587,
+      "discount": 10,
+      "category": "visited",
+      "description": "Aclaraciones : NO NO ES LA DE MILEI XD",
+      "image": "1703883142743_products.jpg"
+   },
+   {
+      "id": "a9877053-37a2-4d42-b9b2-d84d8fd180cf",
+      "name": "Box de ducha vidrio transparente con receptáculo semicircular negro Gorena hong kong 80 x 195 cm",
+      "price": 650428,
+      "discount": 5,
+      "category": "visited",
+      "description": "buenardo diria el profe",
+      "image": "1703883196292_products.jpg"
+   }
+]
